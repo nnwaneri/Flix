@@ -2,8 +2,8 @@
 //  flixTests.swift
 //  flixTests
 //
-//  Created by Kymberlee Hill on 2/2/18.
-//  Copyright © 2018 Kymberlee Hill. All rights reserved.
+//  Created by Ellis Crawford on 8/30/18.
+//  Copyright © 2018 Ellis Crawford. All rights reserved.
 //
 
 import XCTest
